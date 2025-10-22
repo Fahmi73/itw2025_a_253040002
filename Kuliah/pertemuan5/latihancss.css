@@ -1,0 +1,15 @@
+h1 {
+  font-size: 50px;
+  color: tomato;
+  font-family: "Carattere", cursive;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+body {
+  background-image: url(image/WhatsApp\ Image\ 2025-10-21\ at\ 11.12.27_c8985f68.jpg);
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-position: bottom-right; */
+}
