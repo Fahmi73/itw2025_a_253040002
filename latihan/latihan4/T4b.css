@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #F4F4F4;
+}
+body{
+    background-color: #1D546C;
+    color: #333;;
+    font-family: "Outfit", sans-serif;
+    font-size: 16px/28px;
+    /* background-image: url(img/bg2.jpeg); */
+    background-size: cover;
+
+}
+
+.container{
+    width: 800px;
+    background-color: #0C2B4E;
+    margin: auto;
+}
+.header ul{
+    background-color: #1A3D64;
+    padding: 20px;
+}
+.header .judul{
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+.header ul li{
+    text-decoration: none;
+    list-style: none;
+    /* margin-top: 20px; */
+    margin-right: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.header ul li a{
+    text-decoration: none;
+    margin: 5px;
+    padding: 3px;
+    color: salmon;
+}
+.header  ul li a:hover{
+    background-color: springgreen;
+    color: blue;
+    width: auto;
+}
+.hero{
+    background-image: url(img/Pict1.png);
+    height: 280px;
+    background-size: cover ;
+    background-position: 0, -60px;
+    border-top: 5px solid lightgreen;
+    border-bottom: 5px solid lightgreen;
+}
+.content{
+    padding: 20px;
+}
+.judulArtikel{
+    font-size: 28px;
+    font-weight: bold;
+}
+.content .penulis{
+    font-size: 11px;
+    margin-top: -5px;
+}
+.content .penulis a{
+    text-decoration: none;
+    color: salmon;
+}
+.content p{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.footer{
+    background-color: #333;
+    padding: 10px;
+}
+.footer .copy{
+    color: #eaeaaa;
+    font-size: 12px;
+    text-align: center;
+}
