@@ -1,0 +1,26 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #74959A;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#about,
+#Contact {
+
+    background-color: #F1E0AC;
+}
+
+#Gallery {
+    background-color: #74959A;
+}
+
+#footer {
+    background-color: #74959A;
+}
